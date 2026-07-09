@@ -1,4 +1,4 @@
-# Hi, I'm Ali Rajaee 👋
+# Hi, I'm Seyed Mohammad Amin Rajaee 👋
 
 🎓 Computer Engineering Student at Isfahan University of Technology
 
