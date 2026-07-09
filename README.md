@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Ali Rajaee 👋
 
-<!--
-**sma-rajaei/sma-rajaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Isfahan University of Technology
 
-Here are some ideas to get you started:
+💻 Interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a Computer Engineering student interested in building strong foundations in programming, algorithms, and artificial intelligence.
+
+Currently, I am improving my skills in Python, C++, and machine learning while working on practical projects to expand my knowledge.
+
+My current interests include:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Software Development
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- C++
+- C
+
+### Currently Learning
+- Machine Learning
+- Data Science
+- Deep Learning
+- Git & GitHub
+
+---
+
+## Projects
+
+🚧 
+
+Some areas I am exploring:
+- Machine Learning projects
+- Algorithm implementations
+- Programming exercises
+- AI experiments
+
+---
+
+## Education
+
+🎓 B.Sc. in Computer Engineering  
+Isfahan University of Technology
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/seyed-mohammad-amin-rajaei-94ab9a420
