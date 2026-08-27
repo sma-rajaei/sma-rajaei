@@ -22,7 +22,7 @@ My current interests include:
 
 ## Technical Skills
 
-- Maching Learning
+- Machine Learning
 - C++
 - Software Development
 
