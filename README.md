@@ -9,7 +9,7 @@
 ## About Me
 
 I am a Computer Engineering student interested in building strong foundations in programming, algorithms, and artificial intelligence.
-Currently, I am improving my skills in Python, C++, and machine learning while working on practical projects to expand my knowledge.
+Currently, I am improving my skills in Python, machine learning and deep learning while working on practical projects to expand my knowledge.
 
 My current interests include:
 - Artificial Intelligence
