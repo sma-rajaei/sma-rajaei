@@ -2,8 +2,7 @@
 
 🎓 Computer Engineering Student at Isfahan University of Technology
 
-💻 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Software Development.
-
+💻 Interested in Artificial Intelligence | Machine Learning | Deep Learning | Computer Vistion | NLP
 ---
 
 ## About Me
@@ -22,9 +21,12 @@ My current interests include:
 
 ## Technical Skills
 
-- Machine Learning
-- C++
-- Software Development
+Machine Learning
+Deep Learning
+Python
+C++
+C
+Software Development
 
 ---
 
