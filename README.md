@@ -22,17 +22,12 @@ My current interests include:
 
 ## Technical Skills
 
-•	Machine Learning
-
-•	Deep Learning
-
-•	Python
-
-•	C++
-
-•	C
-
-•	Software Development
+- Machine Learning
+- Deep Learning
+- Python
+- C++
+- C
+- Software Development
 
 ---
 
