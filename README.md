@@ -9,15 +9,15 @@
 ## About Me
 
 I am a Computer Engineering student interested in building strong foundations in programming, algorithms, and artificial intelligence.
-Currently, I am improving my skills in Python, machine learning and deep learning while working on practical projects to expand my knowledge.
+Currently, Im expanding my knowledge toward more advanced areas, including computer vision, natural language processing, and reinforcement learning, through further projects and research-oriented exploration.
 
 My current interests include:
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
 - Computer Vision
+- Deep Learning
+- Machine Learning
+- Artificial Intelligence
 - Natural language processing
-- Software Development
+- Reinforcement learning
 ---
 
 ## Technical Skills
