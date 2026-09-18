@@ -2,14 +2,14 @@
 
 🎓 Computer Engineering Student at Isfahan University of Technology
 
-💻 Interested in Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | NLP
+💻 Interested in Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision
 
 ---
 
 ## About Me
 
 I am a Computer Engineering student interested in building strong foundations in programming, algorithms, and artificial intelligence.
-Currently, Im expanding my knowledge toward more advanced areas, including computer vision, natural language processing, and reinforcement learning, through further projects and research-oriented exploration.
+Currently, Im expanding my knowledge toward more advanced areas, including Computer vision, Natural Language processing, and Reinforcement Learning, through further projects and research-oriented exploration.
 
 My current interests include:
 - Computer Vision
