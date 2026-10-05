@@ -16,8 +16,6 @@ My current interests include:
 - Deep Learning
 - Machine Learning
 - Artificial Intelligence
-- Natural language processing
-- Reinforcement learning
 ---
 
 ## Technical Skills
@@ -25,6 +23,7 @@ My current interests include:
 - Machine Learning
 - Deep Learning
 - Python
+- PyTorch
 - C++
 - C
 - Software Development
