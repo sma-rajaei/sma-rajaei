@@ -20,8 +20,9 @@ My current interests include:
 
 ## Technical Skills
 
-- Machine Learning
+- Computer Vision
 - Deep Learning
+- Machine Learning
 - Python
 - PyTorch
 - C++
